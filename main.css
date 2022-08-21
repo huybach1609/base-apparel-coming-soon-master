@@ -139,7 +139,8 @@ input:invalid ~ label {
 .error {
 	margin-left: 0;
 	opacity: 0;
-	padding: 15px 0 0 350px;
+	left: 430px;
+	padding-top: 17px;
  	transition: all 0.4s;
 	z-index: 4;
 }
